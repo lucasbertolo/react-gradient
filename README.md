@@ -1,0 +1,1 @@
+Apresentação de protótipo de paleta de cores;
