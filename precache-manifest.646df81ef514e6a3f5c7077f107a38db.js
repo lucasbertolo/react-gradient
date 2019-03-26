@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/react-gradient/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "3d8b43e6048e259e6403",
+    "revision": "d3bc1c751448cb5b4ab8",
     "url": "/react-gradient/static/css/main.d10f58a1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/react-gradient/static/js/2.393f19e5.chunk.js"
   },
   {
-    "revision": "3d8b43e6048e259e6403",
-    "url": "/react-gradient/static/js/main.886f8208.chunk.js"
+    "revision": "d3bc1c751448cb5b4ab8",
+    "url": "/react-gradient/static/js/main.4c24747d.chunk.js"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/react-gradient/static/css/2.72f2759c.chunk.css"
   },
   {
-    "revision": "82a4c94eee1e86f0e8e2b0e59808a367",
+    "revision": "2d782a84c6aa6f88ce29fa438e0ddc77",
     "url": "/react-gradient/index.html"
   }
 ];
