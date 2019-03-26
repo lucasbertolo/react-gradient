@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-gradient/precache-manifest.646df81ef514e6a3f5c7077f107a38db.js"
+  "/react-gradient/precache-manifest.c8029f5d294426fa01e016cb409bfbfc.js"
 );
 
 workbox.clientsClaim();
